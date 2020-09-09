@@ -1,2 +1,2 @@
 # Zimnat-Insurance-Recommendation-Challenge
-DATA PREPARATION
+DATA PREPARATION and Baseline Model
